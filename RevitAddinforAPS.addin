@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>RevitAddinforAPS App</Name>
+		<Assembly>RevitAddinforAPS.dll</Assembly>
+		<AddInId>422d6fb1-44c8-4707-8afd-2407da80dcce</AddInId>
+		<FullClassName>RevitAddinforAPS.DA4RVT</FullClassName>
+		<Text>Parametros</Text>
+		<VendorId>Robert</VendorId>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+	</AddIn>
+</RevitAddIns>

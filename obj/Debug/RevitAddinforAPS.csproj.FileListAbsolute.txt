@@ -1,0 +1,8 @@
+C:\Users\fabian.banuet\Source\Repos\RevitAddinforAPS\RevitAddinforAPS\bin\Debug\RevitAddinforAPS.dll
+C:\Users\fabian.banuet\Source\Repos\RevitAddinforAPS\RevitAddinforAPS\bin\Debug\RevitAddinforAPS.pdb
+C:\Users\fabian.banuet\Source\Repos\RevitAddinforAPS\RevitAddinforAPS\obj\Debug\RevitAddinforAPS.csproj.AssemblyReference.cache
+C:\Users\fabian.banuet\Source\Repos\RevitAddinforAPS\RevitAddinforAPS\obj\Debug\RevitAddinforAPS.Resource1.resources
+C:\Users\fabian.banuet\Source\Repos\RevitAddinforAPS\RevitAddinforAPS\obj\Debug\RevitAddinforAPS.csproj.GenerateResource.cache
+C:\Users\fabian.banuet\Source\Repos\RevitAddinforAPS\RevitAddinforAPS\obj\Debug\RevitAddinforAPS.csproj.CoreCompileInputs.cache
+C:\Users\fabian.banuet\Source\Repos\RevitAddinforAPS\RevitAddinforAPS\obj\Debug\RevitAddinforAPS.dll
+C:\Users\fabian.banuet\Source\Repos\RevitAddinforAPS\RevitAddinforAPS\obj\Debug\RevitAddinforAPS.pdb
